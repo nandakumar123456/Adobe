@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Adobe" mode="merge"/>
+    <filter root="/content/Adobe" mode="merge"/>
+    <filter root="/content/dam/Adobe" mode="merge"/>
+    <filter root="/content/experience-fragments/Adobe" mode="merge"/>
+</workspaceFilter>
